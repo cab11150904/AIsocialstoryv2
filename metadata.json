@@ -1,0 +1,8 @@
+{
+  "name": "Social Story Creator - Public release",
+  "description": "An application that uses AI to generate personalized social stories with images for neurodivergent children, helping them understand complex social concepts.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
